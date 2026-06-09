@@ -1,0 +1,10 @@
+{
+	"name": "Ls_AzureDataLakeStorage1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://spotifyansh.dfs.core.windows.net/"
+		}
+	}
+}
