@@ -1,0 +1,15 @@
+{
+	"name": "spotifyadfansh",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "463a37fc-725e-48a4-ae7f-beb24b33d2ff",
+		"tenantId": "a8086e28-b99e-487f-85df-96d2486c7d12"
+	}
+}
