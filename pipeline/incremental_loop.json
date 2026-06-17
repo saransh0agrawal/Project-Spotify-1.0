@@ -289,7 +289,7 @@
 												"referenceName": "ds_cdc",
 												"type": "DatasetReference",
 												"parameters": {
-													"container": "bronze-test",
+													"container": "bronze",
 													"folder": {
 														"value": "@{item().table}_cdc",
 														"type": "Expression"
