@@ -79,7 +79,7 @@
 									"referenceName": "ds_sink",
 									"type": "DatasetReference",
 									"parameters": {
-										"container": "bronze",
+										"container": "bronze-test",
 										"folder": {
 											"value": "@item().table",
 											"type": "Expression"
@@ -120,7 +120,7 @@
 									"referenceName": "ds_cdc",
 									"type": "DatasetReference",
 									"parameters": {
-										"container": "bronze",
+										"container": "bronze-test",
 										"folder": {
 											"value": "@{item().table}_cdc",
 											"type": "Expression"
@@ -183,7 +183,7 @@
 												"referenceName": "ds_sink",
 												"type": "DatasetReference",
 												"parameters": {
-													"container": "bronze",
+													"container": "bronze-test",
 													"folder": {
 														"value": "@item().table",
 														"type": "Expression"
@@ -289,7 +289,7 @@
 												"referenceName": "ds_cdc",
 												"type": "DatasetReference",
 												"parameters": {
-													"container": "bronze",
+													"container": "bronze-test",
 													"folder": {
 														"value": "@{item().table}_cdc",
 														"type": "Expression"
@@ -303,7 +303,7 @@
 												"referenceName": "ds_cdc",
 												"type": "DatasetReference",
 												"parameters": {
-													"container": "bronze",
+													"container": "bronze-test",
 													"folder": {
 														"value": "@{item().table}_cdc",
 														"type": "Expression"
