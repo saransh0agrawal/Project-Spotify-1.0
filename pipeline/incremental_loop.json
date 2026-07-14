@@ -70,7 +70,7 @@
 							},
 							"inputs": [
 								{
-									"referenceName": "ds_azure_sql",
+									"referenceName": "ds_azure_sql_new",
 									"type": "DatasetReference"
 								}
 							],
@@ -217,7 +217,7 @@
 										},
 										"userProperties": [],
 										"linkedServiceName": {
-											"referenceName": "Ls_AzureSqlDatabase",
+											"referenceName": "ls_AzureSqlDatabase",
 											"type": "LinkedServiceReference"
 										},
 										"typeProperties": {
