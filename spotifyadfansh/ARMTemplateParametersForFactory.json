@@ -5,19 +5,19 @@
 		"factoryName": {
 			"value": "spotifyadfansh"
 		},
-		"Ls_AzureSqlDatabase_password": {
+		"ls_AzureSqlDatabase_password": {
 			"value": ""
 		},
 		"Ls_AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://spotifyansh.dfs.core.windows.net/"
 		},
-		"Ls_AzureSqlDatabase_properties_typeProperties_server": {
-			"value": "spotify-ansh.database.windows.net"
+		"ls_AzureSqlDatabase_properties_typeProperties_server": {
+			"value": "spotifyanshserver.database.windows.net"
 		},
-		"Ls_AzureSqlDatabase_properties_typeProperties_database": {
-			"value": "spotifydbansh"
+		"ls_AzureSqlDatabase_properties_typeProperties_database": {
+			"value": "spotifyanshdatabase"
 		},
-		"Ls_AzureSqlDatabase_properties_typeProperties_userName": {
+		"ls_AzureSqlDatabase_properties_typeProperties_userName": {
 			"value": "adminansh"
 		}
 	}
