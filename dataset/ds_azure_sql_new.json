@@ -1,8 +1,8 @@
 {
-	"name": "ds_azure_sql",
+	"name": "ds_azure_sql_new",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "Ls_AzureSqlDatabase",
+			"referenceName": "ls_AzureSqlDatabase",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
